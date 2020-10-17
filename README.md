@@ -1,9 +1,10 @@
 # GithubSearchApp
 Practice of using RxJava + Retrofit2 Library.
 
-RxJava : 비동기 작업을 위한 라이브러리. 입력받은 데이터를 비동기적으로 처리하는데 쓰임.
-Retrofit : 안드로이드에서의 Http 연결을 위해서 쓰인다.
-Gson : Json 데이터를 Java 객체로 만드는것을 도와주는 라이브러리.
+RxJava : 비동기 작업을 위한 라이브러리. 입력받은 데이터를 비동기적으로 처리하는데 쓰임. <br>
+Retrofit : 안드로이드에서의 Http 연결을 위해서 쓰인다. <br>
+Gson : Json 데이터를 Java 객체로 만드는것을 도와주는 라이브러리. <br>
+
 
 ## 깃허브 정보를 가져오는 단계
 > 1. Retrofit을 이용해서 정보를 가저옴. (GithubClient 에서 Retrofit를 빌드, GithubAPI 로 연결) <br>
